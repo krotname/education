@@ -7,12 +7,6 @@ B
 build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 G
 RESULT Ryzen 7 5700G.MD,c\b\cb7eeb9a591a537e0d16cfa2f79b274bb777b71f
-Z
-*src/main/java/ru/otus/calculator/Data.java,8\1\81d8a0c5220336ff45c483a9dfbb0784fb090f3a
-^
-.src/main/java/ru/otus/calculator/CalcDemo.java,7\9\79a2519d01bac007d434805094eeb5eaa91f3545
-^
-.src/main/java/ru/otus/calculator/Summator.java,e\7\e7adcfa935c3130b3b2057e4ae9e25540665196e
 X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 7
