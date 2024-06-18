@@ -2,17 +2,18 @@ package ru.esphere.calculator;
 
 
 /*
--Xms256m
--Xmx256m
+-XX:+UseG1GC
+-Xms2560m
+-Xmx2560m
 -XX:+HeapDumpOnOutOfMemoryError
 -XX:HeapDumpPath=./logs/heapdump.hprof
 -XX:+UnlockExperimentalVMOptions
--XX:+UseG1GC
--Xlog:gc=debug:file=./logs/gc-%p-%t.log:tags,uptime,time,level:filecount=5,filesize=10m
+-verbose:gc
 **/
 
 
 /*
+-Xlog:gc=debug
 UseSerialGC, USeParNewGC, UseShenandoahGC, UseZGC, UseG1GC, UseConcMarkSweepGC
 * */
 
