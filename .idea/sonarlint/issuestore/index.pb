@@ -30,3 +30,9 @@ S
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+]
+-src/main/java/ru/esphere/calculator/Data.java,1\4\1497dc9ed32b210c8af15d0609961fdf10f40674
+a
+1src/main/java/ru/esphere/calculator/Summator.java,7\9\79a9771cf8b30f210af048a2374c43d666389014
+a
+1src/main/java/ru/esphere/calculator/CalcDemo.java,4\7\471151d82d643c0c216b397a1760485492be60e2
